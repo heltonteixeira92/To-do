@@ -1,3 +1,15 @@
+#Pycharm files
+.idea/
+.classpath
+.project
+.settings/
+bin/
+*.sqlite3
+
+#vscode.json type
+launch.json
+settings.json
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
